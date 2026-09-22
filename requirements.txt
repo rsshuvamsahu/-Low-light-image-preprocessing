@@ -1,0 +1,17 @@
+# Core Deep Learning & Vision
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.8.0
+numpy>=1.23.0
+scipy>=1.10.0
+scikit-image>=0.20.0
+pillow>=9.5.0
+
+# Evaluation & Metrics
+lpips>=0.1.4
+tqdm>=4.65.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+
+# Interactive UI & Web App
+gradio>=4.0.0
